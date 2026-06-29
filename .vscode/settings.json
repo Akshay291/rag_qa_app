@@ -15,6 +15,7 @@
     "langchain",
     "moonshotai",
     "pcolor",
+    "pycache",
     "pypdf",
     "qbtn",
     "qcols",
